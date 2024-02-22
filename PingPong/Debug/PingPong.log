@@ -1,0 +1,5 @@
+﻿  Arena.cpp
+Panel.obj : error LNK2001: Nerozpoznaný externí symbol "char * * arena" (?arena@@3PAPADA)
+Panel.obj : error LNK2001: Nerozpoznaný externí symbol "int x" (?x@@3HA)
+Panel.obj : error LNK2001: Nerozpoznaný externí symbol "int y" (?y@@3HA)
+C:\Users\cepel\OneDrive\Desktop\4. semestr\C++\zápočet\PingPong\Debug\PingPong.exe : fatal error LNK1120: Počet nerozpoznaných externích typů: 3

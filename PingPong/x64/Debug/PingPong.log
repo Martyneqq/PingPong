@@ -1,0 +1,9 @@
+﻿  Controller.cpp
+C:\Users\cepel\Desktop\4. semestr\C++\zápočet\PingPong\PingPong\Controller.cpp(1,10): fatal error C1083: Nejde otevřít soubor zahrnout: SDL.h: No such file or directory
+  main.cpp
+C:\Users\cepel\Desktop\4. semestr\C++\zápočet\PingPong\PingPong\main.cpp(1,10): fatal error C1083: Nejde otevřít soubor zahrnout: SDL.h: No such file or directory
+  Object.cpp
+C:\Users\cepel\Desktop\4. semestr\C++\zápočet\PingPong\PingPong\Object.cpp(1,10): fatal error C1083: Nejde otevřít soubor zahrnout: SDL.h: No such file or directory
+  Render.cpp
+C:\Users\cepel\Desktop\4. semestr\C++\zápočet\PingPong\PingPong\Render.cpp(1,10): fatal error C1083: Nejde otevřít soubor zahrnout: SDL.h: No such file or directory
+  Generování kódu...
